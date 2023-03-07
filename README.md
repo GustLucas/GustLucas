@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lucas-dos-santos-7a179a226/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511981537107)
 
-### Sou um estudante de TI apaixonado por tecnologia e com muita vontade de aprender todos os dias!
+### Estudante de Sistemas de informação buscando oportunidade para desenvolver minhas habilidades técnicas e sociais. Atualmente focando meus estudos em Backend na área de Inteligência artificial com a linguagem Python. Sou completamente apaixonado por tecnologia e por aprender, adoro desafios que me façam evoluir profissionalmente.
 
 <br/>
 
