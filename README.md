@@ -54,7 +54,7 @@
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/GustLucas/MooviesApi">
-        <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=GustLucas&repo=BankSE_ADM&border_color=5A1BEE&bg_color=0D1117&title_color=5A1BEE&text_color=8B949E&icon_color=5A1BEE" />
+        <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=GustLucas&repo=MooviesApi&border_color=5A1BEE&bg_color=0D1117&title_color=5A1BEE&text_color=8B949E&icon_color=5A1BEE" />
     </a>
 </p>
 
