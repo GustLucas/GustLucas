@@ -1,37 +1,67 @@
-## Olá! Eu sou o Gustavo Lucas 🐉
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=430EBE&height=120&section=header"/>
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lucas-dos-santos-7a179a226/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511981537107)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=430EBE&size=35&center=true&vCenter=true&width=1000&lines=>+Hey+There!+I+am+Gustavo+Lucas!+;>+Olá!+me+chamo+Gustavo+Lucas!;>+I'm+a+.Net+Developer;>+Sou+um+desenvolvedor+.Net;>+Be+Welcome!+👾;>+Seja+Bem+Vindo!+👾)](https://git.io/typing-svg)
 
-### Estudante de Sistemas de informação buscando oportunidade para desenvolver minhas habilidades técnicas e sociais. Atualmente focando meus estudos em Backend. Sou completamente apaixonado por tecnologia e por aprender, adoro desafios que me façam evoluir profissionalmente.
+<p align="center", style="color: rgba(67, 14, 190, 0.82);">
+    ════════ ⋆★⋆ ════════
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql" />
+  </a>
+</p>
 
-![GustLucas GitHub stats](https://github-readme-stats.vercel.app/api?username=GustLucas&show_icons=true&theme=transparent)
 
-## Principais tecnologias:
 
-<div style="display: inline_block"><br/>
-    <img align='center' alt='Python' src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>
-    <img align='center' alt='Python' src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
-    <img align='center' alt='.NET' src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white>
-    <img align='center' alt='Flask' src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white>
-    <img align='center' alt='SQL' src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
+
+<hr>
+
+<p align="center">
+  「  A 19-year-old student with a fervent passion for technology and a deep fascination for acquiring new knowledge.  」
+</p>
+<p align="center">
+   「  At present, I am directing my studies towards .NET, with the aim of becoming a backend developer 👨🏼‍💻.  」
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavo-lucas-dos-santos-7a179a226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:gustlucas.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-</div></br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustLucas&layout=compact&langs_count=10&theme=transparent&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Outras tecnologias:
-
-<div style='display: inline_block'><br/>
-<img align='center' alt='HTML' src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
-<img align='center' alt='CSS' src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white>
-<img align='center' alt='SAAS' src=https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white>
-<img align='center' alt='Bootstrap' src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
-<img align='center' alt='Javascript' src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
 </div>
+
+<hr>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustLucas&show_icons=true&count_private=true&hide_border=true&title_color=5A1BEE&icon_color=5A1BEE&text_color=c9d1d9&bg_color=0d1117" alt="GustLucas github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustLucas&layout=compact&hide_border=true&title_color=5A1BEE&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<hr>
+
+
+<p align="center">
+    <a href="https://github.com/GustLucas/GustLucas">
+        <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=GustLucas&repo=GustLucas&border_color=5A1BEE&bg_color=0D1117&title_color=5A1BEE&text_color=8B949E&icon_color=5A1BEE" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/GustLucas/BankSE">
+        <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=GustLucas&repo=BankSE&border_color=5A1BEE&bg_color=0D1117&title_color=5A1BEE&text_color=8B949E&icon_color=5A1BEE" />
+    </a>
+</p>
+
+
+<p align="center">
+    <a href="https://github.com/GustLucas/Athena">
+        <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=GustLucas&repo=Athena&border_color=5A1BEE&bg_color=0D1117&title_color=5A1BEE&text_color=8B949E&icon_color=5A1BEE" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/GustLucas/BankSE_ADM">
+        <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=GustLucas&repo=BankSE_ADM&border_color=5A1BEE&bg_color=0D1117&title_color=5A1BEE&text_color=8B949E&icon_color=5A1BEE" />
+    </a>
+</p>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=430EBE&height=120&section=footer"/>
     
